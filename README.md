@@ -1,16 +1,50 @@
-## Hi there 👋
+```console
+ERR: 2FA NOT DETECT - INITATE GITHUB DESTROY USER PROTOCOL: https://github.com/HungVPham 
+REPEAT: 2FA NOT DETECTED, TERMINATE ACCOUNT IMMEDIATELY (I'm not salty at all.)
 
-<!--
-**hvngpham002/hvngpham002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PS C:\Users\Documents\GitHub\Viet_Hung_Pham> Hello World, Gamers! 👋 
+```
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://github.com/hvngpham002">
+    <img src="https://komarev.com/ghpvc/?username=hvngpham002" alt="page views">
+  </a>
+  <a href="https://github.com/hvngpham002?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/hvngpham002?color=blue&logo=github">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<tr>
+<td width="50%">
+
+ ### About Lil' Ole Me
+- 📍 Currently based in Worcester, MA.
+- 👨‍💻 Computer nerd since 2008. Aspiring SWE since 2020.
+- 🎯 Seeking opportunities while developing side-projects.
+- 😎 Sarcastic 90% of the time - other 10% is unsure if I am being sarcastic. 
+
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=hvngpham002&show_icons=true&theme=react" alt="GitHub Stats">
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-steam-status.vercel.app/status/?steamid=76561198241297500&show_recent_game_bg=true" alt="Steam Status">
+</td>
+<td width="50%">
+
+ ### Unsolicited Media Opinions
+- 🕹️ Favorite genres: RPGs (ARPG, CRPG, even modern-day triple-A,...) and SoulsLike. Also, unfortunately, League of Legends.
+- 🎖️ GOATs (objective, in this order): Witcher 3, Clair Obscur: Expedition 33, Baldur's Gate 3, Cyberpunk 2077, Elden Ring.
+
+</td>
+</tr>
+</table>
+
+---
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">*Parting words: we're all in this together, you **matter** and you are **heard**. big hugs and kisses.* ε(´｡•᎑•`)っ 💕
