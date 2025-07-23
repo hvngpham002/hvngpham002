@@ -1,7 +1,13 @@
-```console
-ERR: 2FA NOT DETECT - INITATE GITHUB DESTROY USER PROTOCOL: https://github.com/HungVPham 
-REPEAT: 2FA NOT DETECTED, TERMINATE ACCOUNT IMMEDIATELY (I'm not salty at all.)
+<p>
+  <samp>
+    <font color="#f03c15"><b>ERR: 2FA NOT DETECTED - INITIATE GITHUB DESTROY USER PROTOCOL.</b></font><br>
+    <font color="#f03c15"><b>TARGET ACQUIRED:</b></font> <a href="https://github.com/HungVPham">https://github.com/HungVPham</a>.<br>
+    <font color="#f03c15"><b>REPEAT: 2FA NOT DETECTED. TERMINATE ACCOUNT IMMEDIATELY.</b></font><br>
+    <font color="#D83933"><i>(I'm not salty at all.)</i></font>
+  </samp>
+</p>
 
+```console
 PS C:\Users\Documents\GitHub\Viet_Hung_Pham> Hello World, Gamers! 👋 
 ```
 
