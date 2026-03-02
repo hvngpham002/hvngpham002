@@ -22,7 +22,7 @@ PS C:\Users\Documents\GitHub\Hung_Pham> Hello World! 👋
   
 </td>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=hvngpham002&show_icons=true&theme=react" alt="GitHub Stats">
+<img src="https://github-readme-stats-chi-five-65.vercel.app/api?username=hvngpham002&show_icons=true&theme=react" alt="GitHub Stats">
 </td>
 </tr>
 </table>
