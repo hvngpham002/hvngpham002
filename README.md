@@ -16,9 +16,9 @@ PS C:\Users\Documents\GitHub\Hung_Pham> Hello World! 👋
 <td width="50%">
   
  ### About Me
-- 📍 Currently based in Sterling, VA.
+- 📍 Currently based in Hanoi City, Vietnam.
 - 👨‍💻 Computer nerd since 2008. SWE since 2020.
-- 🎯 Seeking opportunities.
+- 🎯 Current CS M.Sc. candidate. 
   
 </td>
 <td width="50%">
